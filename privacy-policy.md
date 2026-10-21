@@ -19,18 +19,26 @@ All of this is stored only on your device.
 | Workouts, heart rate, distance, steps | Apple Health (with your permission) | Checking off planned runs; showing pace, heart rate, cadence |
 | Resting heart rate, HRV, sleep | Apple Health (with your permission) | The Readiness card and its suggestions |
 | Calendar events | Your calendar (with your permission) | Fitting training around flights, performances, and trips |
+| Approximate location | Your phone (only if you choose the Phone location setting) | Telling travel days from home days, when you open the App |
+| Home city | You | Telling when you're away from home; your home time zone |
 | Your check-ins, completed workouts, settings | You | Running your plan |
 
 If you track a run in the App, it can save that workout to Apple Health, with your permission.
 
+**Place lookups.** To find a city and time zone, the App looks up airport codes from flight titles and
+(if you turn it on) the addresses on calendar events and your approximate location using Apple Maps.
+Only the place text or location is sent to Apple, never your calendar, name, or health data. Apple
+handles these requests under its own privacy policy. The results are saved only on your device.
+
 ## What we don't do
 - No account or sign-up.
-- No analytics, advertising, or tracking. The App does not connect to our servers.
+- No analytics, advertising, or tracking. The App does not connect to our servers; its only
+  outside requests are the Apple Maps place lookups described above.
 - Health and calendar data is never used for advertising and never sold or shared with anyone,
   including data brokers.
 
 ## Your choices
-You can turn off Health or calendar access anytime in the iPhone Settings app. Deleting the App deletes
+You can turn off Health, calendar, or location access anytime in the iPhone Settings app. Deleting the App deletes
 its data from your device. Data in Apple Health stays in Apple Health and is managed there.
 
 ## Future changes
