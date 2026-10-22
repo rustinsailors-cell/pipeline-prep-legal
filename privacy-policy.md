@@ -30,13 +30,18 @@ If you track a run in the App, it can save that workout to Apple Health, with yo
 Only the place text or location is sent to Apple, never your calendar, name, or health data. Apple
 handles these requests under its own privacy policy. The results are saved only on your device.
 
+**Nearby routes.** When you tap "Find a route nearby," the App sends the area you're staying in (a city,
+or the place you type) to Apple Maps to find parks, tracks, and trails close by. The equipment you tick
+for a hotel gym stays on your device.
+
 **Keep it private.** If you choose this setting, the App doesn't read your calendar, use your location, or
-look anything up with Apple Maps. You tell it when you're traveling, and that stays on your device.
+look anything up with Apple Maps, unless you search for nearby routes yourself. You tell it when you're
+traveling, and that stays on your device.
 
 ## What we don't do
 - No account or sign-up.
 - No analytics, advertising, or tracking. The App does not connect to our servers; its only
-  outside requests are the Apple Maps place lookups described above.
+  outside requests are the Apple Maps lookups described above.
 - Health and calendar data is never used for advertising and never sold or shared with anyone,
   including data brokers.
 
